@@ -16,5 +16,8 @@ def greetUser(name: str) -> str:
 
 if __name__ == '__main__':
     sayHello('Samantha')
-    sayGoodbye('Alan')
+    sayGoodbye('alan')
     greetUser('Class')
+    sayGoodbye('Tom')
+    greetUser('Bill')
+          
